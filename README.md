@@ -1,4 +1,4 @@
-# Business-System-Analysis-and-Website-Prototype-Development-
+# Business-System-Analysis-and-Website-Prototype-Development
 
 Main idea:
 
