@@ -1,5 +1,8 @@
 # Business-System-Analysis-and-Website-Prototype-Development
 
+
+Capstone Course
+
 Main idea:
 
 In the year of 2020, the Coronavirus Pandemic has gone global and governments both federal and local urge citizens to stay 6 feet apart while avoiding being in groups or indoors. In the town of Flemington, NJ, Bonacorsi Family Farm has kept their local population fed for generations. As a courtesy, the locals still want to support their local small business while staying safe. T4 has been tasked with transforming a traditional business with little technological capabilities into a quick and fast technologically literate curbside pickup station.
