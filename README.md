@@ -12,11 +12,17 @@ As the coronavirus pandemic of 2020 ravaged cities big and small, traditional sm
 3. Create additional channels of cash flow, and increase sales
 
 ## System Breakdown:
+T4 will construct a new strategy for Bonacorsi family farm's customer-facing interface systems. For this project, T4 will be creating a website, database, inventory planning, and customer allocation system, allowing Bonacorsi to continue interacting with local customers safely during the coronavirus pandemic.
 
 ## System Representation:
 
-Diagrams++
-Website Designs++
+***Data Flow Diagram:***
+![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/5e96a4e53372411d3fd035856e833abed5c99dea/System%20Representation%20&%20Diagrams/Data%20flow%20diagram.png)
+
+***Website Designs:***
+![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/5356d13c25abfe46b8bc87df3c383c7cdc5d4b8d/Website%20Design/Web%20design1.png)
+
+![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/5356d13c25abfe46b8bc87df3c383c7cdc5d4b8d/Website%20Design/Web%20design2.png)
 
 The purpose of a website is to exist as a user-friendly platform for all of our end-users. The primary function of the website is to create a technologically adept environment to improve the connectivity between the client and the business while also improving the cohesion between the business and its management staff. 
 
