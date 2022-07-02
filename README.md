@@ -4,11 +4,7 @@
 
 ## Project Summary:
 
-As the coronavirus pandemic of 2020 ravaged cities big and small, traditional small businesses in need of modernization require much-needed assistance to survive in this landscape of weary consumers looking to protect themselves and their families. 
-
-Bonacorsi family farms of Upper Deerfield is a small community food provider that has been in the Bonacorsi family for five generations. Due to the impact of the coronavirus pandemic, the business has sharply declined, and without decisive help, the coming collapse of another small business is in order. 
-
-T4 has been dispatched to re-connect local consumers with their community vendor of fruits. We aim to empower small businesses in these trying times by modernizing their technological reach while keeping both business and customers happy and safe. 
+As the coronavirus pandemic of 2020 ravaged cities big and small, traditional small businesses in need of modernization require much-needed assistance to survive in this landscape of weary consumers looking to protect themselves and their families. Bonacorsi family farms of Upper Deerfield is a small community food provider that has been in the Bonacorsi family for five generations. Due to the impact of the coronavirus pandemic, the business has sharply declined, and without decisive help, the coming collapse of another small business is in order. Our team, T4 has been dispatched to re-connect local consumers with their community vendor of fruits. We aim to empower small businesses in these trying times by modernizing their technological reach while keeping both business and customers happy and safe. 
 
 ## Project Goal:
 1. Streamline Bonacorsi Farm’s Technical capabilities
@@ -42,4 +38,3 @@ For the reporting, management staff will be able to query data that is collected
 - Database Design: ER model
 
 
-upload project proposal 7/1
