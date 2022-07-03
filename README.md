@@ -33,16 +33,17 @@ The purpose of a website is to exist as a user-friendly platform for all of our 
 ## Project & System Analysis
 ***Project Analysis:***
 
-The development and launch of the reimagined website is completed in a 3-month period. Breakdown of the costs of this project:
+The development and launch of the reimagined website is completed in a 3-month period. <br>
+Breakdown of the costs of this project:
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/b6ad16ad508663bdc6cc12fd1e94ab1f1a2ff1f0/Project%20&%20System%20Analysis/Project%20Analysis/Project%20Analysis1.png)
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/b6ad16ad508663bdc6cc12fd1e94ab1f1a2ff1f0/Project%20&%20System%20Analysis/Project%20Analysis/Project%20Analysis2.png)
 
 ***System Analysis:*** <br>
-- Use case diagram:
+- **Use case diagram:**
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/ed380a5008a682fd6d50e068af76cf82f8289c38/Project%20&%20System%20Analysis/System%20Analysis/Use%20case.png)
-- State diagram: (purchasing process)
+- **State diagram (purchasing process)**
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/5bbe6cd3a08a6a745685b6abd3b0cf38c5fb85b2/Project%20&%20System%20Analysis/System%20Analysis/State%20diagram%20-%20purchasing%20process.png)
-- Database design: ER model
+- **Database design - ER model**
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/1d20673104cb65f4380b7009e5b213fbe37044d4/Project%20&%20System%20Analysis/System%20Analysis/Database%20design%20(ER%20diagram).png)
 
 ## System Features & Prototype
