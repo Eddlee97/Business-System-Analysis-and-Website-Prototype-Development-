@@ -31,9 +31,7 @@ The purpose of a website is to exist as a user-friendly platform for all of our 
 - Reporting: Management staff will be able to query data that is collected through the website's database functionalities. This will allow management to look into the performance of products and review customer order preferences. 
 
 ## Project & System Analysis
-***Project Analysis:***
-
-The development and launch of the reimagined website is completed in a 3-month period. <br>
+***Project Analysis:*** The development and launch of the reimagined website is completed in a 3-month period. <br>
 Breakdown of the costs of this project: <br>
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/b6ad16ad508663bdc6cc12fd1e94ab1f1a2ff1f0/Project%20&%20System%20Analysis/Project%20Analysis/Project%20Analysis1.png)
 ![Alt text](https://github.com/Eddlee97/Business-System-Analysis-and-Website-Prototype-Development-/blob/b6ad16ad508663bdc6cc12fd1e94ab1f1a2ff1f0/Project%20&%20System%20Analysis/Project%20Analysis/Project%20Analysis2.png)
